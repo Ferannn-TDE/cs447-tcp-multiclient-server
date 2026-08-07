@@ -1,4 +1,3 @@
-# cs447-tcp-multiclient-server
 # CS 447 - Multi-Client TCP Socket Server (Project I)
 
 A multi-threaded TCP server built with Winsock for Windows, developed for
